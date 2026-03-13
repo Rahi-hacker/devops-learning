@@ -6,4 +6,4 @@ Tools I Will learn:
 -Linux
 -Kubernetes
 -CI/CD
-AWS
+-AWS
